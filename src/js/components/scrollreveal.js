@@ -1,5 +1,5 @@
 /*=============== SCROLL REVEAL ANIMATION ===============*/
-
+import ScrollReveal from "scrollreveal";
 const sr = ScrollReveal({
   origin: "top",
   distance: "60px",
